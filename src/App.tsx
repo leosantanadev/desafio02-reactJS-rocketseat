@@ -71,9 +71,9 @@ export function App() {
   )
 }
 
-// Puta que pariu leozao 
+// Booaa leozao (eu mesmo me dando os parabens rs)
 // Parabens mano conseguiu fazer o desafio 
 // Mais uma conquista pessoal!! Só PROGRESSO!!!...
 
-//Fez o Component SideBar e o Content
+//Fiz a logica dos Components SideBar e Content
 //Passei as variaveis pelas props 

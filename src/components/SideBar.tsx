@@ -30,6 +30,6 @@ export function SideBar({genres, selectedGenreId, handleClickButton} : SideBarPr
   )
 }
 
-// Puta que pariu leozao 
+// Booaa leozao (eu mesmo me dando os parabens rs)
 // Parabens mano conseguiu fazer o desafio 
 // Mais uma conquista pessoal!! Só PROGRESSO!!!...
