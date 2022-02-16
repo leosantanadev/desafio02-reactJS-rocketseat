@@ -33,6 +33,7 @@ export function App() {
   const [movies, setMovies] = useState<MovieProps[]>([]);
   const [selectedGenre, setSelectedGenre] = useState<GenreResponseProps>({} as GenreResponseProps);
 
+  
   useMemo(() => {
     api.get<GenreResponseProps[]>('genres').then(response => {
       setGenres(response.data);
