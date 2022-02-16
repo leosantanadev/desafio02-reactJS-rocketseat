@@ -8,7 +8,7 @@ interface ContentProps {
   selectedGenre: GenreResponseProps
 }
 
-export function Content({movies, selectedGenre} : ContentProps) {
+export function Content({ movies, selectedGenre } : ContentProps) {
   return(
     <div className="container">
         <header>
