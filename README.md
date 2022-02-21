@@ -1,6 +1,6 @@
 # 💻 Sobre os desafios envolvendo essa aplicação
 
-Desafio 1
+<h2>Desafio 2</h2>
 
 Basicamente nesse desafios, tinhamos que refatorar uma aplicação ja funcional, separando a aplicação no minimo em dois components
 - Sidebar => parte da navegação da aplicaçãp
