@@ -1,4 +1,4 @@
-# 💻 Sobre os desafios envolvendo essa aplicação
+# 💻 Desafio Rocketseat
 
 <h3>Desafio 1</h3>
 
