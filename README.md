@@ -1,6 +1,6 @@
 # 💻 Projeto desafio Rocketseat
 
-<p>Aplicação de séries e filmes consumindo uma fake API com JSON server</p>
+#<p>Aplicação de séries e filmes consumindo uma fake API com JSON server</p>
 
 <h3>Desafio 1</h3>
 
