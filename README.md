@@ -8,7 +8,7 @@ Tinhamos que refatorar uma aplicação ja funcional, separando a aplicação no 
 
 <h3>Desafio 2</h3>
 
-Alguns modulos depois tinhamos que implementar estrátegias de otimização do react, usando:
+Depois tinhamos que implementar estrátegias de otimização do react, usando:
 - Virtualização
 - memo
 - UseMemo
